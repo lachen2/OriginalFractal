@@ -3,7 +3,7 @@
     co = (int)(Math.random() * 7 + 1);
   }
   public void setup(){
-    size(400, 400);
+    size(500, 500);
     frameRate(35);
   }
   public void draw(){
