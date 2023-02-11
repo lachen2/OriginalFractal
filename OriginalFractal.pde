@@ -33,5 +33,5 @@
       arc(x, y, siz, siz, PI + n, TWO_PI + n);
       myFractal(x, y, siz - 2, n + 1, c);
     }
-  }
+  } 
   
