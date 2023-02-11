@@ -1,11 +1,9 @@
   float co = (float)(Math.random() * 5 + 2);
-  public void settings() {
-    size(400, 400);
-  }
   public void mouseClicked() {
     co = (int)(Math.random() * 7 + 1);
   }
   public void setup(){
+    size(400, 400);
     frameRate(35);
   }
   public void draw(){
