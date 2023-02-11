@@ -1,6 +1,6 @@
   float co = (float)(Math.random() * 5 + 2);
   public void settings() {
-    size(500, 500);
+    size(400, 400);
   }
   public void mouseClicked() {
     co = (int)(Math.random() * 7 + 1);
